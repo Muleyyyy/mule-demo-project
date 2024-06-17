@@ -7,7 +7,7 @@
 	<version>1.0.0</version>
 	<packaging>mule-application</packaging>
 
-	<name>demo-project</name>
+	<name>demo project</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -36,7 +36,7 @@
 						<target>Cloudhub-US-East-2</target>
 						<muleVersion>4.4.0</muleVersion>
 						<server>ca.anypoint.credentials</server>
-						<applicationName>Dinesh-demo-project-v1</applicationName>
+						<applicationName>demoproject</applicationName>
 						<replicas>1</replicas>
 						<vCores>0.1</vCores>
 						<skipDeploymentVerification>${skipDeploymentVerification}</skipDeploymentVerification>
