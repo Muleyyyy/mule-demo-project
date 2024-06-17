@@ -36,7 +36,7 @@
 						<environment>Sandbox</environment>
 						<target>Cloudhub-US-East-2</target>
 						<muleVersion>4.4.0</muleVersion>
-						<server>ca.anypoint.credentials</server>
+						<server>exchange</server>
 						<applicationName>Dinesh-demo-project-v1</applicationName>
 						<replicas>1</replicas>
 						<vCores>0.1</vCores>
