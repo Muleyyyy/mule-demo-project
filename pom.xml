@@ -4,7 +4,7 @@
 
 	<groupId>2d126b28-3de6-4ba2-9f48-ea5822385a95</groupId>
 	<artifactId>demo-project</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.5</version>
 	<packaging>mule-application</packaging>
 
 	<name>demo project</name>
@@ -36,7 +36,7 @@
 						<target>Cloudhub-US-East-2</target>
 						<muleVersion>4.4.0</muleVersion>
 						<server>ca.anypoint.credentials</server>
-						<applicationName>demoproject</applicationName>
+						<applicationName>demo-project-sample</applicationName>
 						<replicas>1</replicas>
 						<vCores>0.1</vCores>
 						<skipDeploymentVerification>${skipDeploymentVerification}</skipDeploymentVerification>
