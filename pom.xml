@@ -56,7 +56,7 @@
 	</build>
 	<distributionManagement>
 		<repository>
-			<id>ca.anypoint.credentials</id>
+			<id>exchange</id>
 			<name>Corporate Repository</name>
 			<url>https://maven.anypoint.mulesoft.com/api/v2/organizations/2d126b28-3de6-4ba2-9f48-ea5822385a95/maven</url>
 			<layout>default</layout>
