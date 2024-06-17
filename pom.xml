@@ -3,15 +3,15 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>2d126b28-3de6-4ba2-9f48-ea5822385a95</groupId>
 	<artifactId>demo-project</artifactId>
-	<version>1.0.12</version>
+	<version>1.0.13</version>
 	<packaging>mule-application</packaging>
 	<name>demo project</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		<app.runtime>4.4.0-20230417</app.runtime>
-		<mule.maven.plugin.version>4.2.0</mule.maven.plugin.version>
+		<app.runtime>4.4.0</app.runtime>
+		<mule.maven.plugin.version>3.8.2</mule.maven.plugin.version>
 	</properties>
 
 	<build>
@@ -19,7 +19,7 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-clean-plugin</artifactId>
-				<version>3.3.1</version>
+				<version>3.0.0</version>
 			</plugin>
 			<plugin>
 				<groupId>org.mule.tools.maven</groupId>
